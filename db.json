@@ -1,0 +1,16 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "task_name": "Hello from Angular 15"
+    },
+    {
+      "id": 2,
+      "task_name": "Create an Angular ToDo List"
+    },
+    {
+      "id": 3,
+      "task_name": "Completed the project"
+    }
+  ]
+}
